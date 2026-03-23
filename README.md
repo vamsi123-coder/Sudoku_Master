@@ -50,7 +50,7 @@ Sudoku_Master/
 │
 ├── package.json
 └── README.md
-
+```
 
 ---
 
@@ -80,3 +80,4 @@ git clone https://github.com/vamsi123-coder/Sudoku_Master.git
 cd Sudoku_Master
 npm install
 npm start
+```
