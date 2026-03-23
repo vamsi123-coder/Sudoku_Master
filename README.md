@@ -28,7 +28,10 @@ A modern, responsive Sudoku web application built with React.js that offers an i
 
 ---
 
+
 ## 📂 Project Structure
+
+```bash
 Sudoku_Master/
 │
 ├── components/
